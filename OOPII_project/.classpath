@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/commons-lang-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/commons-lang-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/httpclient-4.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/jackson-annotations-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/jackson-core-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/jackson-databind-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/jersey-client-1.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/jersey-core-1.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/mysql-connector-java-8.0.15-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/panos/OneDrive/Υπολογιστής/4o εξάμηνο/Java II/OOPII_21937_21963_21965/OOPII_project/jars/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
